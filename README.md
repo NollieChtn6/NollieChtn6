@@ -23,7 +23,7 @@ In short...
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Personal Website: coming soon!
+- Personal Website: [www.nolliechtn6.com](www.nolliechtn6.com)
 
 
 <!---
