@@ -23,7 +23,7 @@ In short...
 ## 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)
-- [Personal Website](www.nolliechtn6.com)
+- [Personal Website](https://www.nolliechtn6.com)
 
 
 <!---
