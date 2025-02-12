@@ -5,7 +5,7 @@ I decided to take a fresh start in October 2023 and traded language dictionaries
 In short...
 - 👀 I’m interested in web development, with a soft spot for front-end technologies and user interface design.
 - 🌱 I’m currently learning the magic of React, TypeScript, and how to build APIs.
-- 💞️ I am seeking an apprenticeship to continue my training in a real-world setting.
+- 💞️ Currently in an apprenticeship to continue my training in a real-world setting.
 - 📫 How to reach me: [Email](mailto:noellie.chatain@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: My cat's name is 🥔, I am passionate about 🥜 butter and love tattoos!
