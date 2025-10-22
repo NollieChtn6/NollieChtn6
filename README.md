@@ -1,32 +1,62 @@
-# 👋 Hi, I’m @NollieChtn6
+# 👋 Hi, I’m NollieChtn6!
 
-I decided to take a fresh start in October 2023 and traded language dictionaries for lines of code: after completeting a 6-month training, I now am a baby developer who is eager to learn!
+I’m a **full-stack developer** with a love for **frontend and user-centric web experiences**. I enjoy building applications that are **intuitive, performant, and impactful**.  
 
-In short...
-- 👀 I’m interested in web development, with a soft spot for front-end technologies and user interface design.
-- 🌱 I’m currently learning the magic of React, TypeScript, and how to build APIs.
-- 💞️ Currently in an apprenticeship to continue my training in a real-world setting.
-- 📫 How to reach me: [Email](mailto:noellie.chatain@hotmail.com) | [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)
-- 😄 Pronouns: She/Her
-- ⚡ Fun facts: My cat's name is 🥔, I am passionate about 🥜 butter and love tattoos!
+I am currently working at the **National Budget Office of the Ministry of Finance**, where I’ve contributed to critical web applications used for budget preparation, combining **frontend, backend, and database work** to deliver reliable and user-friendly tools.  
+
+I’m especially interested in projects having a **positive effect on users and society in general**, whether that’s improving daily life, contributing to environmental initiatives, or creating socially responsible applications.  
+
+I thrive in **collaborative environments**, where I can continue learning, share knowledge, and deliver high-quality solutions.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend Development
+- **Languages & Standards:** HTML, CSS, JavaScript (JS), TypeScript (TS)  
+- **Frameworks & Libraries:** ReactJS, Angular  
+- **Style:** Tailwind CSS  
+- **UI/UX Tools:** Figma  
+
+### Backend Development
+- **Environments & Frameworks:** Node.js, Express, PHP, Laravel  
+- **Databases:** PostgreSQL, SQLite  
+- **ORMs:** Sequelize (JS/TS), Eloquent (Laravel/PHP)  
+
+### Code Quality & Methodologies
+- **Development Practices:** TDD (Test Driven Development)  
+- **Architecture:** MVC, best practices in code structuring  
+
+### Tools & Work Environment
+- **Version Control:** Git, GitHub, GitLab  
+- **Editors & IDEs:** VS Code, JetBrains suite (PhpStorm & WebStorm)  
+
+---
 
 ## 🚀 Projects
 
-- **[CoHabit](https://github.com/O-clock-Kimchi/O-Coloc-front)**: a platform aiming at making flat sharing easier.
+- **[CityGuide](#)**
 
-## 🛠️ Skills and Technologies
+---
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks and Libraries**: React, Redux, Sass, Express, Node.js
-- **Tools**: Git, VS Code, Figma
+## 🌱 What I’m Up To
+
+- Deepening my knowledge in **React, TypeScript, Angular**, and API development.
+- Contributing to **projects that make a positive impact** on society and the environment.
+- Continuously improving **UX/UI design** and following **best coding practices**.
+
+---
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)
-- [Personal Website](https://www.nolliechtn6.com)
+- [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)  
+- [Personal Website](https://www.nolliechtn6.com)  
+- 📫 Email: [noellie.chatain@hotmail.com](mailto:noellie.chatain@hotmail.com)  
 
+---
 
-<!---
-NollieChtn6/NollieChtn6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😄 Fun facts about me:  
+- My cat’s name is Patate 🥔  
+- I have a peanut butter addiction 🥜  
+- I am a tattoo collector 🖌️
+- 15k steps a day is key 👣
