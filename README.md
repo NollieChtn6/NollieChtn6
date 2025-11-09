@@ -51,7 +51,7 @@ I thrive in **collaborative environments**, where I can continue learning, share
 
 - [LinkedIn](https://www.linkedin.com/in/no%C3%ABllie-chatain-six/)  
 - [Personal Website](https://www.nolliechtn6.com)  
-- 📫 Email: [noellie.chatain@hotmail.com](mailto:noellie.chatain@hotmail.com)  
+- 📫 [Email](mailto:noellie.chatain@hotmail.com)  
 
 ---
 
