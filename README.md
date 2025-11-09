@@ -35,7 +35,7 @@ I thrive in **collaborative environments**, where I can continue learning, share
 
 ## 🚀 Projects
 
-- **[CityGuide](#)**
+- **[CityGuide](https://092024-jaune-3.wns.wilders.dev/)**
 
 ---
 
