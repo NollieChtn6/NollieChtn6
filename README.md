@@ -63,7 +63,7 @@ I thrive in collaborative environments, where I can keep learning, share knowled
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 
-## 📊 My GitHub Stats
+## ⚡️ GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=NollieChtn6&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
