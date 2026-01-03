@@ -79,12 +79,3 @@ I thrive in collaborative environments, where I can keep learning, share knowled
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
----
-
-## 🌱 What I’m Up To
-
-- Deepening my knowledge in **React, TypeScript, Angular**, and API development.
-- Contributing to **projects that make a positive impact** on society and the environment.
-- Continuously improving **UX/UI design** and following **best coding practices**.
